@@ -7,10 +7,12 @@ Make sure you're in the directory
 
 # TESTING
 > $ quasar dev -m spa -t mat 
+
 more information go to https://quasar-framework.org/guide/quasar-cli.html#dev-Development-Server
 
 # BUILD
 > $ quasar build -m spa -t mat
+
 more information go to https://quasar-framework.org/guide/quasar-cli.html#build-clean-Build-App-for-Production
 
 # DEPLOY
